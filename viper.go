@@ -32,7 +32,7 @@ import (
 	"strings"
 	"time"
 
-	yaml "gopkg.in/yaml.v2"
+	yaml "github.com/ghodss/yaml"
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/hashicorp/hcl"
